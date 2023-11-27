@@ -5,7 +5,7 @@
     flex-wrap: wrap;
     justify-content: space-around;
 }
-@media screen and (min-width:0px) and (max-width:480px) {
+@media screen and (min-width:0px) and (max-width:832px) {
     .contact h1{
         font-size: 1.7rem;
     }
@@ -14,5 +14,8 @@
     }
 }
 .contact span{
-    font-size: 3rem;
+    font-size: 2rem;
+}
+.credits{
+    text-align: center;
 }
