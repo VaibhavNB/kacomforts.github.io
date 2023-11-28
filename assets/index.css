@@ -30,7 +30,7 @@ button.call-btn{
     padding: .7rem 2rem;
     border-radius: .5rem;
 }
-#main-sec .call-btn:hover{
+#main-sec button .call-btn:hover{
     background-color: #fde047;
     color: black;
     cursor: pointer;
