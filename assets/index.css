@@ -24,12 +24,7 @@
     margin: 1rem 0;
 
 }
-button.call-btn{
-    background-color: red;
-    color: white;
-    padding: .7rem 2rem;
-    border-radius: .5rem;
-}
+
 #main-sec button .call-btn:hover{
     background-color: #fde047;
     color: black;
